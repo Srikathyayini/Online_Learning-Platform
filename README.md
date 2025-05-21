@@ -18,5 +18,5 @@ LearnSphere is a dynamic e-learning platform designed to make quality education 
 - **Database**: MySQL (via XAMPP)
 - **Server**: Apache (XAMPP)
 
-## 📁 Project Structure
+
 
